@@ -7,3 +7,5 @@
 * Database version: `MySQL`
 
 * Services (job queues, cache servers, search engines, etc.)
+
+* Can use gem trestle(admin) or ActiveAdmin, FrontEnd use ReactJS - NextJS......
